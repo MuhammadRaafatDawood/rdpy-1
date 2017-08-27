@@ -1,2 +1,2 @@
-# rdpy
-Dockerized rdpy for use in T-Pot
+# dockerized rdpy
+
